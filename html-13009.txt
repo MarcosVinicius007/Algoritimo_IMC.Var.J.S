@@ -1,0 +1,10 @@
+<html>
+<meta http-equiv = "(content-type" content="text/html;charset=UTF-8"/>
+<script>
+
+var peso = prompt ("por favor digite o PEZO")
+var altura = prompt ("por favor digite o ALTURA")
+
+alert (resultado)
+</script>
+</html>
